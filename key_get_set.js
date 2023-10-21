@@ -1,3 +1,4 @@
+# add comment to test cloud function
 var redis = require("redis");
 var client = redis.createClient();
 
